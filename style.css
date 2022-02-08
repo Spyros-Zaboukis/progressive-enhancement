@@ -1,0 +1,10 @@
+main{
+    font-family: 'Raleway', serif;
+    font-size: 1.3rem;
+    color: rgb(51, 51, 51);
+}
+
+section{
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
